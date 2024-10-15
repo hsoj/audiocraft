@@ -8,6 +8,7 @@ hydra_colorlog
 julius
 num2words
 numpy>=1.26.4,<2.0.0
+scipi>=1.9.3
 sentencepiece
 spacy>=3.6.1
 torch>=2.1.0,<2.5.0
